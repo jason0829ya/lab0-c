@@ -11,9 +11,8 @@ it bear
 it gerbil
 size
 sort
-rh bear
+rh
 rh
 rh
 rh
 size
-
